@@ -15,7 +15,6 @@
  interface DeveloperProfile {
   pronouns: "he" | "him";
   code: string[];
-  tools: string[];
   challenge: string;
 }
 

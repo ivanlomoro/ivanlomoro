@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Html, Css, Javascript, React, Typescript and anything about Development.**
 
-- 📫 How to reach me **ivanlomoro@outlook.es**
+- 📫 How to reach me **ivanlomoro@gmail.com**
 
 #### About me in code 🚀
 ```typescript

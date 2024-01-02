@@ -1,6 +1,6 @@
 ![banner_prueba-removebg-preview](https://github.com/ivanlomoro/ivanlomoro/assets/124687392/d1ed79da-9942-4358-a194-18c4f310de07)
 <h1 align="center">Hi 👋, I'm Iván Martín Lomoro</h1>
-<h3 align="center">I'm a student of Master Software Development on AIT.</h3>
+<h3 align="center">I'm a Full Stack Developer.</h3>
 
 - 💻 **I'm passionate about technology, the web experience, and the endless possibilities it offers. Exploring the digital realm feels like embarking on a never-ending adventure.**
 
